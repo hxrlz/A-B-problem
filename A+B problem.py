@@ -1,2 +1,6 @@
 a,b=map(int,input().split())
-print(a+b)
+def add:
+    global a
+    global b
+    print(a+b)
+add()
